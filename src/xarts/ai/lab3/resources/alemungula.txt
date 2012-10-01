@@ -1,0 +1,25 @@
+Alemungula is a mancala game played by the Wetawit (formerly spelled Wetaweat) in Ethiopia, around the towns of Asosa and Beni Sangul, towards the Sudan border. Wetawit is an ethnic group in Ethiopia and Sudan. They speak Berta, a Nilo-Saharan language. The population of this group is about 248,000.
+The game is played mainly by youngsters, though sometimes also by adults in their leisure time. It is closely related to Um el Bagara ("the cow game") which is played by the Baggara in northern Sudan. However, Alemungula offers bigger challenges because singletons may also be moved.
+
+Alemungula was first described by the ethiopist Richard Pankhurst in 1971. The game was implemented by Arty Sandler for online play at igGameCenter on December 19, 2010.
+
+
+Rules
+
+Alemungula is played on a wooden board which consists of 2x5=10 holes known as tisiya alemungula ("alemungula wood"), while the holes are called ful alemungula. Play is begun with five stones in each hole.
+
+At his turn, a player picks up all the contents of one of his holes and then distributes, one by one, the stones into the following holes, the direction depending on the hole chosen. Moves from either of a player's two left-hand holes are made in clockwise direction, moves from either of the player's two right-hand holes are made in an anti-clockwise direction, and moves from the center hole may be made in either direction. The move is finished after a single lap.
+
+A singleton which is played into an empty hole of the opponent's side, that is either the last or the first hole of the opponent's row), may not be played back in the next move.
+
+If the last stone is dropped in one of the opponent's holes and makes a two or a four, these stones are captured. Should one or more of the opponent's holes immediately preceding this on the line of play, also have been increased to two or four stones these will likewise be captured.
+
+The captured stones are removed from the board and stored.
+
+The game ends when a player has no legal move. Each player then captures the stones remaining on his side.
+
+The winner is the player who captured the greater number of stones during the game. If both players captured the same number the game is a draw.
+
+See details at:
+http://www.iggamecenter.com/info/ru/alemungula.html#links
+http://mancala.wikia.com/wiki/Alemungula
